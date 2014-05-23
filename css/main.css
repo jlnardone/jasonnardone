@@ -1,0 +1,16 @@
+h1, a, a:hover {
+	color: #9b0007;	
+}
+
+b {
+	color: #333333;
+}
+
+section {
+
+	margin-bottom: 2em;
+}
+
+section a {
+	margin-right: 0.6em;
+}
