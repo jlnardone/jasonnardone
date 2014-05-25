@@ -5773,3 +5773,24 @@ button.close {
     display: none !important;
   }
 }
+h2 {
+  margin-top: 0;
+}
+section {
+  margin-bottom: 2em;
+}
+section a {
+  margin-right: 0.6em;
+}
+@media screen and (max-width: 992px) {
+  h2,
+  .job {
+    text-align: left !important;
+  }
+}
+strong {
+  color: #222;
+}
+footer {
+  margin: 5em;
+}
